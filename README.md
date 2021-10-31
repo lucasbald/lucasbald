@@ -4,11 +4,11 @@
 
 ## I'm a backend Developer and frontend Enthusiast!!
 
-- 🔭  I just started learning more about react
-- 🌱  I’m currently learning everything 🤣
-- 👯  I’m looking to collaborate with other content creators
-- 🥅  2021 Goals: Update my github and linkedin profiles
-- ⚡  Fun fact: I love to play Dota2
+- 🔭   I just launched my first portfolio website
+- 🌱   I’m currently learning everything 🤣
+- 👯   I’m looking to collaborate with other open source projects
+- 🥅   2021 Goals: Update my github and linkedin profiles
+- ⚡   Fun fact: I love to play Dota 2
 
 ### Connect with me:
 
