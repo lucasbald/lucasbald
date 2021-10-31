@@ -4,11 +4,11 @@
 
 ## I'm a backend Developer and frontend Enthusiast!!
 
-- 🔭 I just started learning more about react
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Update my github and linkedin profiles
-- ⚡ Fun fact: I love to play Dota2
+- 🔭  I just started learning more about react
+- 🌱  I’m currently learning everything 🤣
+- 👯  I’m looking to collaborate with other content creators
+- 🥅  2021 Goals: Update my github and linkedin profiles
+- ⚡  Fun fact: I love to play Dota2
 
 ### Connect with me:
 
@@ -38,3 +38,7 @@
 
 [website]: https://lucasbald.vercel.app
 [linkedin]: https://linkedin.com/in/lbaldin
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
